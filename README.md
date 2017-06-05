@@ -26,7 +26,7 @@ universal, personal
 	</tr>	
 	<tr>
 		<td>Duplicate Line</td>
-		<td>Cmd + Shift + Down</td>
+		<td>Cmd + Shift + C</td>
 	</tr>
 	<tr>
 		<td>Delete Line</td>
