@@ -62,7 +62,7 @@ universal, personal
 	</tr>
 	<tr>
 		<td>Toggle Word Wrap</td>
-		<td>Fn + Shift + W</td>
+		<td>Ctrl + W</td>
 	</tr>
 	<tr>
 		<td colspan="2">&nbsp;</td>
