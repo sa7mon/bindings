@@ -9,6 +9,7 @@ universal, personal
 * **PhpStorm:** ~/Library/Preferences/PhpStorm<xx>/keymaps/*.xml
 * **PyCharm:** ~/Library/Preferences/PyCharm<xx>/keymaps/*.xml
 * **Sublime 2:** Packages/User/Default.sublime-keymap
+* **Visual Studio Code (Windows):** %APPDATA%/Roaming/Code/User/keybindings.json
 
 <br>
 
